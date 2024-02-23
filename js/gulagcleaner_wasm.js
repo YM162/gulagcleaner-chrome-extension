@@ -33,7 +33,7 @@ function getArrayU8FromWasm0(ptr, len) {
 }
 /**
 * @param {Uint8Array} data
-* @param {number} force_naive
+* @param {boolean} force_naive
 * @returns {Uint8Array}
 */
 export function clean_pdf(data, force_naive) {
